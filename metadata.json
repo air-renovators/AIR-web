@@ -1,0 +1,7 @@
+{
+  "name": "AI Renovators",
+  "description": "High-conversion landing page for AI Renovators consultancy, featuring a deep blue enterprise aesthetic, metallic accents, and interactive scroll animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
