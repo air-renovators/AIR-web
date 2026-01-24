@@ -1,4 +1,5 @@
 import React from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Hero } from './components/Hero';
 import { ValueProp } from './components/ValueProp';
 import { Services } from './components/Services';
@@ -26,6 +27,7 @@ const App: React.FC = () => {
       </main>
       <Footer />
       <AiConcierge />
+      <SpeedInsights />
     </div>
   );
 };
